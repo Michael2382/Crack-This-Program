@@ -8,4 +8,4 @@ Steps:
 6. Run .exe file.
 7. You will notice that the password is correct! (you can run before you edited and it will be not correct because you didn`t changed it.)
 And thats it,
-Hope i helped someone!
+hope i helped someone!
