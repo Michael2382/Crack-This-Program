@@ -1,4 +1,4 @@
-This program is a C file to crack with HEX
+This program is a C file to crack with HEX.
 Steps:
 1. Open your hex editor
 2. Open .exe file in an editor
